@@ -1,0 +1,16 @@
+p{
+    color: black;
+}
+
+img{
+    padding: 10px;
+    border: 2px solid blue;
+}
+
+#image_1{
+    position: absolute; top: 20px; left: 500px;
+}
+
+#image_2{
+    position: absolute; top: 400px; left: 40px;
+}
